@@ -1,8 +1,10 @@
 ## Setup
 
+Uses sqlite
+
 ```bash
 $ bundle
-$ rake db:setup db:seed
+$ rake db:setup
 ```
 
 ## Goals
